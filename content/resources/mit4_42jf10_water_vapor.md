@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 03e52aa1-5341-f162-6c7a-f736bfbf006e
 resourcetype: Document
 title: 'Air Water Vapor Mixtures: Psychrometrics'
 uid: a860d453-6978-31ac-a223-049667c430bb

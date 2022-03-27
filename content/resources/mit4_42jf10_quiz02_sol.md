@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d77ada5d-61ee-b448-42ab-e5efdcfe7f48
 resourcetype: Document
 title: MIT4_42JF10_quiz02_sol.pdf
 uid: 7191bb60-b1f7-f370-13d4-e41701e4546d

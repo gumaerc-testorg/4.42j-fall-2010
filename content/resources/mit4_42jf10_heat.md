@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 03e52aa1-5341-f162-6c7a-f736bfbf006e
 resourcetype: Document
 title: MIT4_42JF10_heat.pdf
 uid: 932ba308-aee6-7d01-64ea-8b59cec1c4be

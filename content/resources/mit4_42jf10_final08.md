@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d77ada5d-61ee-b448-42ab-e5efdcfe7f48
 resourcetype: Document
 title: MIT4_42JF10_final08.pdf
 uid: d74dd793-b7b5-df53-f58a-02cc588e89d9

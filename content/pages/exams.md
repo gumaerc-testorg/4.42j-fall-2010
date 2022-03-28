@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
+parent_uid: null
 title: Exams
 uid: d77ada5d-61ee-b448-42ab-e5efdcfe7f48
 ---
@@ -30,10 +31,10 @@ SOLUTIONS
 Quiz 1 (2008)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_42jf10_quiz01))
+({{< resource_link c02b403e-fc43-eb4f-90a8-be736fdb7acb "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_42jf10_quiz01_sol))
+({{< resource_link 07674a07-fe1f-0dd0-ac39-041db4774152 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +43,7 @@ Quiz 1 (2008)
 Quiz 1 (2006)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_42jf10_quiz01_2006))
+({{< resource_link 43f997ac-3418-613f-fe09-288b11fc3eb1 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -54,10 +55,10 @@ Quiz 1 (2006)
 Quiz 2 (2008)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_42jf10_quiz02))
+({{< resource_link fc6b825a-768f-d498-2312-2638f5440861 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_42jf10_quiz02_sol))
+({{< resource_link 7191bb60-b1f7-f370-13d4-e41701e4546d "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +67,7 @@ Quiz 2 (2008)
 Quiz 2 (2005)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_42jf10_quiz02_2005))
+({{< resource_link 4e98830d-4563-19ee-90e7-3375d66c83f5 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -78,7 +79,7 @@ Quiz 2 (2005)
 Final exam (2008)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit4_42jf10_final08))
+({{< resource_link d74dd793-b7b5-df53-f58a-02cc588e89d9 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  

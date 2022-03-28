@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 03e52aa1-5341-f162-6c7a-f736bfbf006e
 ---
@@ -220,7 +221,7 @@ Notes
 Heat transfer introduction
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ([PDF]({{< baseurl >}}/resources/mit4_42jf10_heat))
+Notes ({{< resource_link 932ba308-aee6-7d01-64ea-8b59cec1c4be "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +233,7 @@ Notes ([PDF]({{< baseurl >}}/resources/mit4_42jf10_heat))
 Conductive heat transfer, moisture transfer in walls
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ([PDF]({{< baseurl >}}/resources/mit4_42jf10_water_vapor))
+Notes ({{< resource_link a860d453-6978-31ac-a223-049667c430bb "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

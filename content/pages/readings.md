@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provide information on the course textbook, additional reading
+  materials, and the schedule of readings by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 03e52aa1-5341-f162-6c7a-f736bfbf006e
 ---
@@ -221,7 +222,7 @@ Notes
 Heat transfer introduction
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ({{< resource_link 932ba308-aee6-7d01-64ea-8b59cec1c4be "PDF" >}})
+Notes ({{% resource_link 932ba308-aee6-7d01-64ea-8b59cec1c4be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +234,7 @@ Notes ({{< resource_link 932ba308-aee6-7d01-64ea-8b59cec1c4be "PDF" >}})
 Conductive heat transfer, moisture transfer in walls
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ({{< resource_link a860d453-6978-31ac-a223-049667c430bb "PDF" >}})
+Notes ({{% resource_link a860d453-6978-31ac-a223-049667c430bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

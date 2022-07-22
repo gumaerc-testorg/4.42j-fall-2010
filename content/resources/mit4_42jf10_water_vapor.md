@@ -6,6 +6,7 @@ file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/a860d45369783
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Air Water Vapor Mixtures: Psychrometrics'
 uid: a860d453-6978-31ac-a223-049667c430bb
 ---
 Lecture notes on psychrometrics, humidity, air-water vapor mixture, psychometric charts, and adiabatic saturation temperature.
-

@@ -6,6 +6,7 @@ file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/ae9e6ce71d8fe
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Homework Set #1'
 uid: ae9e6ce7-1d8f-e1a0-1a32-9571c1bb4463
 ---
 Problem set on home heating, solar collectors, the economics of solar collectors versus oil, energy prices, energy auditing, and improving energy efficiency.
-

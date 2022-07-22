@@ -6,6 +6,7 @@ file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/a29dfa68f8fd5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT4_42JF10_assn03.pdf
 uid: a29dfa68-f8fd-5a82-fd46-4a68b7d5169c
 ---
 This resource contains 5 problem statements related to room temperature, and feasibility.
-

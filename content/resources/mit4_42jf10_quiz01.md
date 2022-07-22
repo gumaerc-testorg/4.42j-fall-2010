@@ -5,6 +5,7 @@ file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/c02b403efc43e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Quiz 1
 uid: c02b403e-fc43-eb4f-90a8-be736fdb7acb
 ---
 Quiz on room temperature, refrigeration, evaporation, and energy flow.
-

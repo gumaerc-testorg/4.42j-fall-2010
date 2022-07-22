@@ -6,6 +6,7 @@ file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/07674a07fe1f0
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT4_42JF10_quiz01_sol.pdf
 uid: 07674a07-fe1f-0dd0-ac39-041db4774152
 ---
 This resource contains solutions to the quiz related to initial room temperature, and electrical energy. 
-

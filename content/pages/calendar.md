@@ -335,7 +335,7 @@ Heat pumps, refrigeration cycles
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Tour: Building 68, [Koch Biology Building](http://whereis.mit.edu/?go=68); and Building N51, [MIT Museum](http://web.mit.edu/museum/) and the [Digital Design Fabrication Group](http://ddf.mit.edu/)
+Tour: Building 68, {{% resource_link "45469366-e5d4-4337-a9c7-7e6331d6bf8a" "Koch Biology Building" %}}; and Building N51, {{% resource_link "f702585d-1cec-4411-b0fb-047af533e122" "MIT Museum" %}} and the {{% resource_link "d16fb1bd-c1f4-4bd7-a708-5a7a7efb61aa" "Digital Design Fabrication Group" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on psychrometrics, humidity, air-water vapor mixture, psychometric
   charts, and adiabatic saturation temperature.
 file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/a860d453697831aca223049667c430bb_MIT4_42JF10_water_vapor.pdf
+file_size: 509698
 file_type: application/pdf
 learning_resource_types:
 - Readings

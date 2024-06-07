@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 8 problem statements related to ambient temperature,
   water flow rate, steady flow energy equation.
 file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/245f4c4b53fd2c17954977f2930f8069_MIT4_42JF10_assn04.pdf
+file_size: 76459
 file_type: application/pdf
 learning_resource_types:
 - Assignments

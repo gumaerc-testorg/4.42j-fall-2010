@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the fundamentals of energy
   in buildings.
 file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/a46af42735e8f0c989a35f036f93d53f_MIT4_42JF10_project_sw.pdf
+file_size: 1356543
 file_type: application/pdf
 learning_resource_types:
 - Assignments

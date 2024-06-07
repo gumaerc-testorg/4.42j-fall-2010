@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz on room temperature, refrigeration, evaporation, and energy flow.
 file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/c02b403efc43eb4f90a8be736fdb7acb_MIT4_42JF10_quiz01.pdf
+file_size: 59346
 file_type: application/pdf
 learning_resource_types:
 - Exams

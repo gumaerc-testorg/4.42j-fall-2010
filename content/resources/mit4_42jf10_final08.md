@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to power generator
   and temperature.
-file: /ol-ocw-studio-app/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/d74dd793b7b5df53f58a02cc588e89d9_MIT4_42JF10_final08.pdf
+file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/d74dd793b7b5df53f58a02cc588e89d9_MIT4_42JF10_final08.pdf
 file_size: 37406
 file_type: application/pdf
 learning_resource_types:

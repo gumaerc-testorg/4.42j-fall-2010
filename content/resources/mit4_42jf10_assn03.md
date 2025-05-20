@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 5 problem statements related to room temperature,
   and feasibility.
-file: /ol-ocw-studio-app/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/a29dfa68f8fd5a82fd464a68b7d5169c_MIT4_42JF10_assn03.pdf
+file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/a29dfa68f8fd5a82fd464a68b7d5169c_MIT4_42JF10_assn03.pdf
 file_size: 51441
 file_type: application/pdf
 learning_resource_types:

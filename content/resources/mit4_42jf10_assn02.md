@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 4 problem statements related to efficiency of
   the heater, and temperature.
-file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/a23f265c416f271a8ab137c59cb68568_MIT4_42JF10_assn02.pdf
+file: /ol-ocw-studio-app/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/a23f265c416f271a8ab137c59cb68568_MIT4_42JF10_assn02.pdf
 file_size: 60135
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions to the quiz related to initial room
   temperature, and electrical energy. '
-file: /courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/07674a07fe1f0dd0ac39041db4774152_MIT4_42JF10_quiz01_sol.pdf
+file: /ol-ocw-studio-app/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/07674a07fe1f0dd0ac39041db4774152_MIT4_42JF10_quiz01_sol.pdf
 file_size: 109067
 file_type: application/pdf
 learning_resource_types:
